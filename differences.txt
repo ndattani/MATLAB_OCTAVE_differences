@@ -1,0 +1,3 @@
+https://stackoverflow.com/a/8651650/1271772: 
+ - strlength('teststring')=10 in MATLAB, error in OCTAVE. 
+ - length('teststring')=10 in OCTAVE, 1 in MATLAB
